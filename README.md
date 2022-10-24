@@ -1,0 +1,2 @@
+# MOZC
+Moz Coin
